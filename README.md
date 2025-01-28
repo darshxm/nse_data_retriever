@@ -2,8 +2,6 @@
 
 ![NSE Data Retriever](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)
-![GitHub Issues](https://img.shields.io/github/issues/darshxm/nse-data-retriever)
-![GitHub Stars](https://img.shields.io/github/stars/darshxm/nse-data-retriever?style=social)
 
 ## Table of Contents
 
