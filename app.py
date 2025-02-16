@@ -2,8 +2,8 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
 from datetime import date
-from nse_data_retriever import NSEDataRetriever, Broad_Indices, Sectoral_Indices, Thematic_Indices, Strategic_Indices
-
+from retriever import NSEDataRetriever
+from constants import Broad_Indices, Sectoral_Indices, Thematic_Indices, Strategic_Indices
 # Combine all index lists into one
 all_indices = Broad_Indices + Sectoral_Indices + Thematic_Indices + Strategic_Indices
 
