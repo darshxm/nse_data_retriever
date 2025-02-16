@@ -36,7 +36,7 @@ Since the library is not yet published on PyPI, you can install it directly from
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/darshxm/nse-data-retriever.git
+   git clone https://github.com/darshxm/nse_data_retriever.git
    ```
 
 2. **Navigate to the Project Directory**
