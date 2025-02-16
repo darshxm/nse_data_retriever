@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-from .constants import Broad_Indices, Sectoral_Indices, Thematic_Indices, Strategic_Indices
+from constants import Broad_Indices, Sectoral_Indices, Thematic_Indices, Strategic_Indices
 
 class NSEDataRetriever:
     """
