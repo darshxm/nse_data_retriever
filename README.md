@@ -19,7 +19,7 @@
 
 ## Introduction
 
-**NSE Data Retriever** is a Python library designed to fetch historical data for various National Stock Exchange (NSE) indices in India. Whether you're a data analyst, trader, or enthusiast, this library provides a simple and efficient way to access and analyze NSE index data directly within your Python projects.
+**NSE Data Retriever** is a Python library designed to fetch historical data for various National Stock Exchange (NSE) indices in India. Whether you're a data analyst, trader, or enthusiast, this library provides a simple and efficient way to access and analyze NSE index data directly within your Python projects. There is also a lightweight streamlit app that lets you compare the performance of 2 NIFTY indexes over your desired time period (given that data is available) that you can either self deploy, use locally, or use through this link - https://nsedatacompare.streamlit.app/
 
 ## Features
 
